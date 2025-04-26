@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+.parrafo_azul{
+    color: blue;
+}
+
+p{
+    color: green
+}
+
+a:hover{
+    color: purple
+}
